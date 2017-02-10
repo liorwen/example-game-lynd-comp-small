@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mdm" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/swc/mdm.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
